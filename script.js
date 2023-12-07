@@ -2,4 +2,4 @@
 functionName(){
 	alert("FunctionName");
 }
-fubctionName();
+functionName();
